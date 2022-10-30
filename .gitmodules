@@ -1,0 +1,3 @@
+[submodule "jwt-app"]
+	path = jwt-app
+	url = https://github.com/Waqar556/public.git
